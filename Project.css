@@ -1,0 +1,119 @@
+body{
+  background-image:url("/storage/emulated/0/Project/pg.jpg");
+  background-attachement:fixed;
+  background-repeat:no-repeat;
+  background-size: 100%;
+}
+.navbar{
+display:inline-block;
+width:100%;
+height:0px;
+text-decoration:none;
+text-transform:uppercase;
+//word-size:2em;
+//font-size:1em;
+//word-spacing:5%;
+}
+.navlinks{
+float:right;
+style:normal;
+font-weight:bold;
+strectch:extended;
+word-spacing:%;
+word-size:1em;
+font-size:1.1em;
+}
+a{
+text-decoration:none;
+float:right;
+style:normal;
+font-weight:bold;
+strectch:extended;
+word-spacing:80%;
+word-size:2em;
+font-size:1em;
+color:#9607F9;
+
+}
+ td{ 
+ padding: 13px;
+ float:right;
+ style:normal;
+ font-weight:bold;
+ strectch:extended;
+ font-size:1.5em;
+ }
+ .text-container{
+display:inline;
+/* height:130px;
+ width:130px;
+ margin:10px
+ color:#F4F4D4;/**/
+ color:#C1FCC5;
+ align-content:center;
+ text-align:center;
+ align:left;
+ text-transform:uppercase;
+ font-style:italic;
+ font-weight:bold;
+ strectch:extended;
+ word-spacing:0.2em;
+ word-size:12px;
+ font-size:1.9em;
+// float:left;
+ }
+/*.slidedown {
+  animation-name: slideDown;
+     animation-duration: 6s;
+     animation-iteration-count: infinite;
+   }
+   @keyframes slideDown {
+     0% {
+       transform: translateY(-100%);
+       visibility: visible;
+     }
+     100% {
+       transform: translateY(0);
+     }
+    }/**/
+    .fadein {
+    animation-name: fadeIn;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    }
+    @keyframes fadeIn {
+    0% {
+    opacity: 0;
+    }
+    100% {
+    opacity: 1;
+    }
+    }
+    .text{
+ color:#D3F6DB;
+ font-style:italic;
+ font-weight:bold;
+ strectch:extended;
+ word-spacing:0.2em;
+ word-size:12px;
+ font-size:1.4em;
+ align-content:center;
+ text-align:center;
+ align:center;
+}
+/**.logonav{
+display:inline-block;
+width:10%;
+height:100px;
+float:left;
+padding:50px;
+padding-top:0px;
+background-color:red;
+
+}
+.logo{
+wight:550px;
+height:550px;
+padding:50px;
+margin-top:0px;
+}/**/
